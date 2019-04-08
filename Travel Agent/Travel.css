@@ -1,0 +1,26 @@
+/*
+*Wendy Mayo
+*April 9,2019
+*Project 3 & Padua Panda Travel
+*/
+
+/* The universal selector */
+*{
+}
+/* Body attributes here */
+body { width:85%;
+    margin: auto;
+    background-color: #98dfea;
+    font-family:cursive;
+    font-size: 120%;
+    color:#8f3985;
+}
+
+/* Map picture length*/
+#Map { width:500xpx; height: 450px;}
+
+/* OBeaches picture length */
+#OB { width:400xpx; height: 350px;}
+
+/* Reasons picture length */
+#R { width:270xpx; height: 250px;}
